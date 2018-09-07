@@ -20,10 +20,8 @@ import java.util.List;
 
 /**
  * 权限请求页适配，不同手机系统跳转到不同的权限请求页
- *
  * @author Donkor
  */
-
 public class PermissionPageUtils {
     private final String TAG = "PermissionPageManager";
 

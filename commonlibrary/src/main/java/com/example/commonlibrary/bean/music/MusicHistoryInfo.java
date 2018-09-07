@@ -5,7 +5,10 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * Created by COOTEK on 2017/8/9.
+ * @ClassName: MusicHistoryInfo
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Entity
 public class MusicHistoryInfo {

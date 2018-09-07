@@ -3,9 +3,11 @@ package com.example.commonlibrary.imageloader.base;
 import android.widget.ImageView;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: BaseImageLoaderConfig
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class BaseImageLoaderConfig {
     private ImageView imageView;
     private String url;

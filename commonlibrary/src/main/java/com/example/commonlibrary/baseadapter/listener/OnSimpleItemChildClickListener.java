@@ -5,9 +5,11 @@ import android.view.View;
 import com.example.commonlibrary.baseadapter.adapter.BaseRecyclerAdapter;
 
 /**
- * Created by COOTEK on 2017/8/1.
+ * @ClassName: OnSimpleItemChildClickListener
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public abstract class OnSimpleItemChildClickListener implements BaseRecyclerAdapter.OnItemClickListener {
     @Override
     public void onItemClick(int position, View view) {

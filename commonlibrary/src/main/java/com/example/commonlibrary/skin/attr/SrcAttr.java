@@ -4,9 +4,11 @@ import android.view.View;
 import android.widget.ImageView;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: SrcAttr
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class SrcAttr extends SkinAttr {
     @Override
     public void apply(View view) {

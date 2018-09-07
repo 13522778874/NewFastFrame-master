@@ -8,7 +8,12 @@ import com.example.commonlibrary.module.IModuleConfig;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @ClassName: ManifestParser
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 public final class ManifestParser {
     private static final String MODULE_VALUE = "IModuleConfig";
 

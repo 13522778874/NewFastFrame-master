@@ -29,9 +29,11 @@ import okhttp3.Response;
 import retrofit2.Retrofit;
 
 /**
- * Created by COOTEK on 2017/7/28.
+ * @ClassName: BaseApplication
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class BaseApplication extends Application {
 
 

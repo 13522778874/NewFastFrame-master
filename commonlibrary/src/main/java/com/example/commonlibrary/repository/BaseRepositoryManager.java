@@ -8,9 +8,11 @@ import java.util.Map;
 import retrofit2.Retrofit;
 
 /**
- * Created by COOTEK on 2017/8/11.
+ * @ClassName: BaseRepositoryManager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class BaseRepositoryManager<D extends AbstractDaoSession> implements IRepositoryManager<D> {
     protected Retrofit retrofit;
     private D daoSession;

@@ -8,12 +8,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      陈锦军
- * 创建时间:    2018/1/3     18:08
- * QQ:         1981367757
+ * @ClassName: CommonPagerAdapter
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class CommonPagerAdapter extends PagerAdapter {
 
     private List<View> viewList;

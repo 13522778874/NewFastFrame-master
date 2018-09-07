@@ -17,12 +17,11 @@ import com.example.commonlibrary.utils.CommonLogger;
 
 
 /**
- * 项目名称:    TestChat
- * 创建人:        陈锦军
- * 创建时间:    2017/5/23      8:39
- * QQ:             1981367757
+ * @ClassName: BaseSwipeRecyclerAdapter
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public abstract class BaseSwipeRecyclerAdapter<T, K extends BaseWrappedViewHolder> extends BaseRecyclerAdapter<T, K> {
 
     /**

@@ -5,9 +5,11 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by COOTEK on 2017/7/28.
+ * @ClassName: OkHttpGlobalHandler
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public interface OkHttpGlobalHandler {
 
 

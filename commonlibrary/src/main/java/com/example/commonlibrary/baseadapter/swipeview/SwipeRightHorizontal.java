@@ -19,7 +19,10 @@ import android.view.View;
 import android.widget.OverScroller;
 
 /**
- * Created by Yan Zhenjie on 2016/7/22.
+ * @ClassName: SwipeRightHorizontal
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 class SwipeRightHorizontal extends SwipeHorizontal {
 

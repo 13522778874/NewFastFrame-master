@@ -15,9 +15,11 @@ import com.example.commonlibrary.utils.CommonLogger;
 import java.util.List;
 
 /**
- * Created by COOTEK on 2017/9/4.
+ * @ClassName: SkinItem
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class SkinItem {
     private View view;
     private List<SkinAttr> skinAttrs;

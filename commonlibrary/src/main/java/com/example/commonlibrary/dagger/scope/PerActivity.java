@@ -6,9 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import javax.inject.Scope;
 
 /**
- * Created by hefuyi on 2016/11/1.
+ * @ClassName: PerActivity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 @Scope
 @Retention(RetentionPolicy.RUNTIME)
 public @interface PerActivity {

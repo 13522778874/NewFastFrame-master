@@ -5,12 +5,11 @@ import android.content.Context;
 import java.util.Map;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      陈锦军
- * 创建时间:    2017/12/9     21:44
- * QQ:         1981367757
+ * @ClassName: RouterRequest
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class RouterRequest {
     private String provideName;
     private String actionName;

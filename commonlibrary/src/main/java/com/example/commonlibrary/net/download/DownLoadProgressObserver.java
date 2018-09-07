@@ -10,9 +10,11 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Consumer;
 
 /**
- * Created by COOTEK on 2017/8/4.
+ * @ClassName: DownLoadProgressObserver
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
  public class DownLoadProgressObserver implements Observer<FileInfo>, DownloadProgressListener {
 
     private FileInfo fileInfo;

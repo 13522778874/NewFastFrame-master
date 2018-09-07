@@ -8,9 +8,11 @@ import com.example.commonlibrary.skin.SkinManager;
 import com.example.commonlibrary.utils.CommonLogger;
 
 /**
- * Created by COOTEK on 2017/9/6.
+ * @ClassName: ThumbAttr
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class ThumbAttr extends SkinAttr {
 
     @Override

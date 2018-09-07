@@ -20,7 +20,6 @@ import java.util.regex.Pattern;
 /**
  * 方法工具类
  */
-
 public class AppUtil {
     /**
      * 描述：判断网络是否有效.

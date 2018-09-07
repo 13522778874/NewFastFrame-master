@@ -26,12 +26,11 @@ import com.example.commonlibrary.utils.DensityUtil;
 import java.util.List;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:        陈锦军
- * 创建时间:    2017/11/5      10:35
- * QQ:             1981367757
+ * @ClassName: ViewPagerIndicator
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class ViewPagerIndicator extends LinearLayout {
     private Paint mPaint;
     private Path mPath;

@@ -11,9 +11,11 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: SkinUtil
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class SkinUtil {
     private static final String SKIN_DIR_NAME = "skin";
     public static final String NAME_PLACE = "http://schemas.android.com/apk/res/android";

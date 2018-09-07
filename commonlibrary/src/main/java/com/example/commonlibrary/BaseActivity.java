@@ -45,12 +45,11 @@ import static android.view.View.GONE;
 
 
 /**
- * 项目名称:    Cugappplat
- * 创建人:        陈锦军
- * 创建时间:    2017/4/3      14:21
- * QQ:             1981367757
+ * @ClassName: BaseActivity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public  abstract class BaseActivity<T, P extends BasePresenter> extends RxAppCompatActivity implements IView<T>, IAdaptScreen {
 
     //  这里的布局view可能为空，取决于子类布局中是否含有该空布局

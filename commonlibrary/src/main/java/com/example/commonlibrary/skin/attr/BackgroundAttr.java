@@ -6,9 +6,11 @@ import android.widget.SeekBar;
 import com.example.commonlibrary.utils.CommonLogger;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: BackgroundAttr
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class BackgroundAttr extends SkinAttr {
     @Override
     public void apply(View view) {

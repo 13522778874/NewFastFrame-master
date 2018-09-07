@@ -12,9 +12,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by COOTEK on 2017/8/29.
+ * @ClassName: ApplicationDelegate
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class ApplicationDelegate implements IAppLife {
     private List<IModuleConfig> list;
     private List<IAppLife> appLifes;

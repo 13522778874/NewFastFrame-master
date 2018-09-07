@@ -5,11 +5,10 @@ import org.greenrobot.greendao.annotation.Generated;
 import org.greenrobot.greendao.annotation.Id;
 
 /**
- * 项目名称:    PostDemo
- * 创建人:      陈锦军
- * 创建时间:    2018/1/17     17:00
- * QQ:         1981367757
- * 总共20字段
+ * @ClassName: UserEntity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Entity
 public class UserEntity {

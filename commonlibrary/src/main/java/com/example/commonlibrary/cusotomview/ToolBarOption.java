@@ -6,12 +6,11 @@ import com.example.commonlibrary.R;
 
 
 /**
- * 项目名称:    TestChat
- * 创建人:        陈锦军
- * 创建时间:    2016/12/27      21:31
- * QQ:             1981367757
+ * @ClassName: ToolBarOption
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class ToolBarOption {
         /**
          * 图标资源

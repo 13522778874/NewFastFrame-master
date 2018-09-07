@@ -30,7 +30,10 @@ import android.widget.TextView;
 import java.util.List;
 
 /**
- * Created by Yan Zhenjie on 2016/7/26.
+ * @ClassName: SwipeMenuView
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public class SwipeMenuView extends LinearLayout {
 

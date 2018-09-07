@@ -7,12 +7,11 @@ import com.example.commonlibrary.baseadapter.adapter.BaseRecyclerAdapter;
 import com.example.commonlibrary.baseadapter.viewholder.BaseWrappedViewHolder;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:        陈锦军
- * 创建时间:    2017/9/28      10:06
- * QQ:             1981367757
+ * @ClassName: MainAdapter
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class MainAdapter extends BaseRecyclerAdapter<MainItemBean,BaseWrappedViewHolder>{
     @Override
     protected int getLayoutId() {

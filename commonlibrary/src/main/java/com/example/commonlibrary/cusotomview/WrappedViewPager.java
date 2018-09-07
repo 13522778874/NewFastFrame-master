@@ -8,12 +8,11 @@ import android.view.MotionEvent;
 import com.example.commonlibrary.utils.CommonLogger;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:        陈锦军
- * 创建时间:    2017/9/26      16:49
- * QQ:             1981367757
+ * @ClassName: WrappedViewPager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class WrappedViewPager extends ViewPager {
     public WrappedViewPager(Context context) {
         super(context);

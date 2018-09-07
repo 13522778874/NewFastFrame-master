@@ -17,7 +17,10 @@ package com.example.commonlibrary.baseadapter.swipeview;
 
 
 /**
- * Created by Yan Zhenjie on 2016/7/27.
+ * @ClassName: SwipeSwitch
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public interface SwipeSwitch extends Openable, Closeable {
 

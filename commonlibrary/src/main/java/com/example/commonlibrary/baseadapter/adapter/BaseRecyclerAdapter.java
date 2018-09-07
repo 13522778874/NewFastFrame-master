@@ -29,7 +29,10 @@ import java.util.List;
 import io.reactivex.functions.Consumer;
 
 /**
- * Created by 陈锦军 on 16/3/12.
+ * @ClassName: BaseRecyclerAdapter
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public abstract class BaseRecyclerAdapter<T, K extends BaseWrappedViewHolder> extends RecyclerView.Adapter<K> {
 

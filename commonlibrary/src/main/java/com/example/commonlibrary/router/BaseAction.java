@@ -1,12 +1,11 @@
 package com.example.commonlibrary.router;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      陈锦军
- * 创建时间:    2017/12/9     20:52
- * QQ:         1981367757
+ * @ClassName: BaseAction
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public abstract class BaseAction {
 
     public abstract RouterResult invoke(RouterRequest routerRequest);

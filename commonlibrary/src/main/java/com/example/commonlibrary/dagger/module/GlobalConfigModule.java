@@ -29,7 +29,10 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by COOTEK on 2017/7/28.
+ * @ClassName: GlobalConfigModule
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Module
 public class GlobalConfigModule {

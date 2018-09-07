@@ -7,9 +7,11 @@ import com.bumptech.glide.load.Transformation;
 import com.example.commonlibrary.imageloader.base.BaseImageLoaderConfig;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: GlideImageLoaderConfig
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class GlideImageLoaderConfig extends BaseImageLoaderConfig {
     public static final int CACHE_ALL=0;
     public static final int CACHE_NONE=1;

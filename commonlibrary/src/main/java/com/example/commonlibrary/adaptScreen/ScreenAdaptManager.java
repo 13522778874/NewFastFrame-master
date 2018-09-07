@@ -15,9 +15,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 项目名称:    android
- * 创建人:      陈锦军
- * 创建时间:    2018/8/22     14:16
+ * @ClassName: ScreenAdaptManager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public class ScreenAdaptManager {
 //    private static ScreenAdaptManager sInstance;

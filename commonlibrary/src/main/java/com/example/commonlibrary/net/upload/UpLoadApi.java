@@ -12,9 +12,11 @@ import retrofit2.http.PartMap;
 import retrofit2.http.Url;
 
 /**
- * Created by COOTEK on 2017/8/4.
+ * @ClassName: UpLoadApi
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public interface UpLoadApi {
     @POST
     public Observable<Response> upLoad(@Url String url, @PartMap Map<String, RequestBody> requestBodyMap);

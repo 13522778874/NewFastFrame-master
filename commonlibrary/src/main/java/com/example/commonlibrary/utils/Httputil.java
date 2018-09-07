@@ -10,9 +10,11 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by COOTEK on 2017/8/20.
+ * @ClassName: Httputil
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class Httputil {
 
     private static OkHttpClient okHttpClient = BaseApplication.getAppComponent().getOkHttpClient();

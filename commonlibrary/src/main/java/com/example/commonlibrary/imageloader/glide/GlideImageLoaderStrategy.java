@@ -8,9 +8,11 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.example.commonlibrary.imageloader.base.BaseImageLoaderStrategy;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: GlideImageLoaderStrategy
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class GlideImageLoaderStrategy implements BaseImageLoaderStrategy<GlideImageLoaderConfig> {
     @Override
     public void loadImage(Context context, GlideImageLoaderConfig config) {

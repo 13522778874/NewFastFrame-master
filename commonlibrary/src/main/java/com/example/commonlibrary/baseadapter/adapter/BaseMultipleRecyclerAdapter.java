@@ -13,12 +13,11 @@ import java.util.List;
 
 
 /**
- * 项目名称:    TestChat
- * 创建人:        陈锦军
- * 创建时间:    2017/3/26      13:19
- * QQ:             1981367757
+ * @ClassName: BaseMultipleRecyclerAdapter
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public abstract class BaseMultipleRecyclerAdapter<T extends MultipleItem, K extends BaseWrappedViewHolder> extends BaseRecyclerAdapter<T, K> {
     protected SparseIntArray layoutIds;
 

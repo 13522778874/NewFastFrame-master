@@ -44,7 +44,12 @@ import cn.bmob.v3.BmobQuery;
 import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.QueryListener;
 import io.reactivex.Observable;
-
+/**
+ * @ClassName: MainActivity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 public class MainActivity extends SlideBaseActivity {
 
     private List<Fragment> fragmentList;

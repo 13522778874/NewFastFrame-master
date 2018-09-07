@@ -6,9 +6,11 @@ import java.net.URLConnection;
 import okhttp3.MediaType;
 
 /**
- * Created by COOTEK on 2017/8/4.
+ * @ClassName: NetUtil
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class NetUtil {
 
 

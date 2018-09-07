@@ -8,7 +8,12 @@ import android.view.View;
 
 import java.lang.reflect.Constructor;
 import java.util.Map;
-
+/**
+ * @ClassName: ViewProducer
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 class ViewProducer {
     private static final Object[] mConstructorArgs = new Object[2];
     private static final Map<String, Constructor<? extends View>> sConstructorMap

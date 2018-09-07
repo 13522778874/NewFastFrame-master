@@ -7,11 +7,11 @@ import org.greenrobot.greendao.annotation.Entity;
 import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
-
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      李晨
- * 创建时间:    2018/5/21     11:04
+ * @ClassName: PostNotifyInfo
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Entity
 public class PostNotifyInfo implements Parcelable {

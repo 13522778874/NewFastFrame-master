@@ -1,9 +1,11 @@
 package com.example.commonlibrary.skin.theme;
 
 /**
- * Created by COOTEK on 2017/9/7.
+ * @ClassName: ThemeUtil
+ * @Description: (主题工具)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class ThemeUtil {
     public static final String IS_THEME="IS_THEME";
     public static final String THEME_COLOR="THEME_COLOR";

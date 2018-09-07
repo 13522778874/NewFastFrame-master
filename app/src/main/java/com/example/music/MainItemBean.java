@@ -1,12 +1,11 @@
 package com.example.music;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:        陈锦军
- * 创建时间:    2017/9/28      10:07
- * QQ:             1981367757
+ * @ClassName: MainItemBean
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class MainItemBean {
     private String name;
     private int resId;

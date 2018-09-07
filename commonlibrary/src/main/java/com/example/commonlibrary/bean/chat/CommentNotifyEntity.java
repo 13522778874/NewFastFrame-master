@@ -5,9 +5,10 @@ import org.greenrobot.greendao.annotation.Id;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      李晨
- * 创建时间:    2018/5/18     18:22
+ * @ClassName: CommentNotifyEntity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Entity
 public class CommentNotifyEntity {

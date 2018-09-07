@@ -1,9 +1,11 @@
 package com.example.commonlibrary.skin;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: LoadSkinListener
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public interface LoadSkinListener {
 
 

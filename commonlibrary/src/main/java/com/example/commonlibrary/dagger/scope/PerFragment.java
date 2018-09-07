@@ -6,10 +6,11 @@ import java.lang.annotation.RetentionPolicy;
 import javax.inject.Scope;
 
 /**
- * Created by COOTEK on 2017/8/13.
+ * @ClassName: PerFragment
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
-
 @Scope
 @Retention(RetentionPolicy.RUNTIME)
 public @interface PerFragment {

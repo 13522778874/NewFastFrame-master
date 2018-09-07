@@ -16,7 +16,12 @@ import android.util.AttributeSet;
 
 import com.example.commonlibrary.R;
 
-
+/**
+ * @ClassName: RoundAngleImageView
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 public class RoundAngleImageView extends AppCompatImageView {
     private Paint paint;
     private int roundWidth = 5;

@@ -13,9 +13,10 @@ import java.util.List;
 import org.greenrobot.greendao.annotation.Generated;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      李晨
- * 创建时间:    2018/5/23     12:00
+ * @ClassName: SkinEntity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Entity
 public class SkinEntity implements Parcelable {

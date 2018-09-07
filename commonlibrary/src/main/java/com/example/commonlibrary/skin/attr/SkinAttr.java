@@ -9,9 +9,11 @@ import com.example.commonlibrary.skin.SkinManager;
 import com.example.commonlibrary.utils.CommonLogger;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: SkinAttr
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public abstract class SkinAttr {
     public static final String RESOURCE_TYPE_NAME_COLOR = "color";
     public static final String RESOURCE_TYPE_NAME_DRAWABLE = "drawable";

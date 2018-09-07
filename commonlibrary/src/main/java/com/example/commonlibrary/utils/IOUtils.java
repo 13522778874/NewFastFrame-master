@@ -42,7 +42,12 @@ import java.io.Writer;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @ClassName: IOUtils
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 public class IOUtils {
 
     public static void closeQuietly(Closeable closeable) {

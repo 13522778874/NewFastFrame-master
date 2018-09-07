@@ -1,10 +1,11 @@
 package com.example.commonlibrary.utils;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: ConstantUtil
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
-
 public class ConstantUtil {
 
 //    http://www.quanmin.tv/  全民直播

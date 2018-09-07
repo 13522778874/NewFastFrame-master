@@ -46,9 +46,11 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by COOTEK on 2017/8/3.
+ * @ClassName: NetManager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class NetManager {
     private static NetManager instance;
     //    由于每个下载请求要监听进度，因此要添加拦截器，所以要保持不同的retrofit

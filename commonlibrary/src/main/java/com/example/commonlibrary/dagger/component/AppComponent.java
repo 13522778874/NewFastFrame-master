@@ -21,9 +21,11 @@ import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
 
 /**
- * Created by COOTEK on 2017/7/28.
+ * @ClassName: AppComponent
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 @Singleton
 @Component(modules = {AppModule.class, GlobalConfigModule.class, AppConfigModule.class})
 public interface AppComponent {

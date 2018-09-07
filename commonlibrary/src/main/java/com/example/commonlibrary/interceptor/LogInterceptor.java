@@ -26,7 +26,10 @@ import okhttp3.internal.http.HttpHeaders;
 import okio.Buffer;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: LogInterceptor
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Singleton
 public class LogInterceptor implements Interceptor {

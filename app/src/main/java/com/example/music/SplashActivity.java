@@ -18,14 +18,12 @@ import java.util.concurrent.TimeUnit;
 import io.reactivex.Flowable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 
-
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      陈锦军
- * 创建时间:    2017/12/26     20:10
- * QQ:         1981367757
+ * @ClassName: SplashActivity
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class SplashActivity extends AppCompatActivity implements Animation.AnimationListener {
     private TextView time;
 

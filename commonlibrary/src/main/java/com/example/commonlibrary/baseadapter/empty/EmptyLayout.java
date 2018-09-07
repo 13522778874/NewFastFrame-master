@@ -15,12 +15,11 @@ import com.bumptech.glide.Glide;
 import com.example.commonlibrary.R;
 
 /**
- * 项目名称:    Cugappplat
- * 创建人:        陈锦军
- * 创建时间:    2017/4/3      14:39
- * QQ:             1981367757
+ * @ClassName: EmptyLayout
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class EmptyLayout extends FrameLayout implements View.OnClickListener {
 
 

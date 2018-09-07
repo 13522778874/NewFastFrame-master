@@ -13,7 +13,12 @@ import java.io.InputStream;
 import okhttp3.Call;
 import okhttp3.OkHttpClient;
 
-
+/**
+ * @ClassName: OkHttpUrlLoader
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
+ */
 public class OkHttpUrlLoader implements ModelLoader<GlideUrl, InputStream> {
 
     private final Call.Factory client;

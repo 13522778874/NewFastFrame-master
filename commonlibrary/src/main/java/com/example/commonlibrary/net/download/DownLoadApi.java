@@ -8,9 +8,11 @@ import retrofit2.http.Streaming;
 import retrofit2.http.Url;
 
 /**
- * Created by COOTEK on 2017/8/3.
+ * @ClassName: DownLoadApi
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public interface DownLoadApi {
     @Streaming
     @GET

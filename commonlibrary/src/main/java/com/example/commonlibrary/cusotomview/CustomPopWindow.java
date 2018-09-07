@@ -14,9 +14,11 @@ import com.example.commonlibrary.utils.BlurBitmapUtil;
 import com.example.commonlibrary.utils.DensityUtil;
 
 /**
- * Created by COOTEK on 2017/8/22.
+ * @ClassName: CustomPopWindow
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class CustomPopWindow extends PopupWindow {
 
 

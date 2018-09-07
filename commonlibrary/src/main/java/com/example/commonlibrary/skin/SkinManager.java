@@ -40,9 +40,11 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by COOTEK on 2017/9/3.
+ * @ClassName: SkinManager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class SkinManager {
 
 

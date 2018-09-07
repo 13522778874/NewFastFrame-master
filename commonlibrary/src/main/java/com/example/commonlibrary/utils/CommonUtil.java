@@ -5,12 +5,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      陈锦军
- * 创建时间:    2017/12/21     17:27
- * QQ:         1981367757
+ * @ClassName: CommonUtil
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class CommonUtil {
     public static String getTime(long time,String format){
         SimpleDateFormat simpleDateFormat =new SimpleDateFormat(format);

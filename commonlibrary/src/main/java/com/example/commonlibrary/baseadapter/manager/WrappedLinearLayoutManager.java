@@ -6,9 +6,11 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 
 /**
- * Created by COOTEK on 2017/8/23.
+ * @ClassName: WrappedLinearLayoutManager
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class WrappedLinearLayoutManager extends LinearLayoutManager {
     public WrappedLinearLayoutManager(Context context) {
         super(context);

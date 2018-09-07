@@ -9,7 +9,10 @@ import javax.inject.Inject;
 import javax.inject.Singleton;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: ImageLoader
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Singleton
 public class ImageLoader {

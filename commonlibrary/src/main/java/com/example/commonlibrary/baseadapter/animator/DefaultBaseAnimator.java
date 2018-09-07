@@ -5,9 +5,11 @@ import android.support.v7.widget.RecyclerView;
 import android.view.animation.LinearInterpolator;
 
 /**
- * Created by COOTEK on 2017/8/25.
+ * @ClassName: DefaultBaseAnimator
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class DefaultBaseAnimator extends BaseItemAnimator {
     @Override
     protected void animateRemoveImpl(RecyclerView.ViewHolder holder) {

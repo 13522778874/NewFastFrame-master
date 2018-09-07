@@ -4,9 +4,11 @@ package com.example.commonlibrary.net.upload;
 import com.example.commonlibrary.net.download.FileInfo;
 
 /**
- * Created by COOTEK on 2017/8/4.
+ * @ClassName: UpLoadListener
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public interface UpLoadListener  {
     /**
      * 开始上传

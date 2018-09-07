@@ -12,15 +12,10 @@ import com.example.commonlibrary.skin.SkinManager;
 
 
 /**
- * 项目名称:    HappyChat
- * 创建人:        陈锦军
- * 创建时间:    2016/9/15      10:51
- * QQ:             1981367757
- */
-
-
-/**
- * recyclerview的分隔线
+ * @ClassName: ListViewDecoration
+ * @Description: (recyclerview的分隔线)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public class ListViewDecoration extends RecyclerView.ItemDecoration {
     private Drawable divider;

@@ -12,9 +12,11 @@ import com.example.commonlibrary.utils.CommonLogger;
 import java.io.InputStream;
 
 /**
- * Created by COOTEK on 2017/8/17.
+ * @ClassName: GlideConfig
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class GlideConfig implements GlideModule {
     @Override
     public void applyOptions(Context context, GlideBuilder builder) {

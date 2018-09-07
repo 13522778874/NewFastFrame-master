@@ -29,12 +29,11 @@ import java.util.Set;
 
 
 /**
- * 项目名称:    TestChat
- * 创建人:        陈锦军
- * 创建时间:    2017/3/25      14:38
- * QQ:             1981367757
+ * @ClassName: BaseWrappedViewHolder
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class BaseWrappedViewHolder extends RecyclerView.ViewHolder {
     private Set<Integer> mClickableItemIds;
     private Set<Integer> mNestIds;

@@ -4,9 +4,11 @@ import android.os.Build;
 import android.util.Log;
 
 /**
- * Created by COOTEK on 2017/7/31.
+ * @ClassName: CommonLogger
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class CommonLogger {
     private static boolean isLogEnable = true;
 

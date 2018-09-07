@@ -24,7 +24,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Yan Zhenjie on 2016/7/22.
+ * @ClassName: SwipeMenu
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 public class SwipeMenu {
 

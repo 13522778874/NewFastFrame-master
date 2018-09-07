@@ -9,11 +9,11 @@ import android.widget.RadioButton;
 import com.example.commonlibrary.skin.SkinManager;
 
 /**
- * 项目名称:    NewFastFrame
- * 创建人:      李晨
- * 创建时间:    2018/5/22     15:44
+ * @ClassName: DrawableTopAttr
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class DrawableTopAttr extends SkinAttr {
 
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN_MR1)

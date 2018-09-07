@@ -19,7 +19,10 @@ import okhttp3.HttpUrl;
 import okhttp3.Interceptor;
 
 /**
- * Created by COOTEK on 2017/7/28.
+ * @ClassName: AppConfigModule
+ * @Description: (这里用一句话描述这个类的作用)
+ * @author sunweixing
+ * @date 2018-09-07
  */
 @Module
 public class AppConfigModule {
