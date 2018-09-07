@@ -30,11 +30,12 @@ import com.tencent.bugly.beta.upgrade.UpgradeStateListener;
 import java.util.Locale;
 import java.util.Map;
 
-
 /**
- * Created by COOTEK on 2017/8/30.
+ * @ClassName: App
+ * @Description: 
+ * @author sunweixing
+ * @date 2018-09-07
  */
-
 public class App extends BaseApplication {
     @Override
     public void onCreate() {
