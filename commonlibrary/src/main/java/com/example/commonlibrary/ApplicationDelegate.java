@@ -22,7 +22,6 @@ public class ApplicationDelegate implements IAppLife {
     private List<IAppLife> appLifes;
     private List<Application.ActivityLifecycleCallbacks> liferecycleCallbacks;
 
-
     public ApplicationDelegate() {
         appLifes = new ArrayList<>();
         liferecycleCallbacks = new ArrayList<>();
